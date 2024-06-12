@@ -21,7 +21,7 @@ function Keyboard() {
         { label: 9, id: '9' },
         { label: "+", id: 'plus', class: 'operation' },
         { label: 0, id: '0', class: 'key_0' },
-        { label: "0", id: '', class: 'hidden' },
+        { label: ".", id: '', class: 'hidden' },
         { label: "-", id: 'minus', class: 'operation' },
         { label: "¬", id: 'submit', class: 'operation' }
     ];
